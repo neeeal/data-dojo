@@ -3,3 +3,6 @@ ipykernel
 ipywidgets
 kaggle
 pandas
+matplotlib
+plotly
+nbformat>=4.2.0
